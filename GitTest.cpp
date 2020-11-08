@@ -23,6 +23,6 @@ int inputmodel(vector<double> &weights)
  int x=10;
  cout<< x; 
 
- int y=1;
- cout<<y;
+
+
 }
