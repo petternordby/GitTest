@@ -16,5 +16,10 @@ using namespace std;
 int inputmodel(vector<double> &weights)
 {
  
- return num_scenarios;   
+ return num_scenarios;  
+
+
+
+ int x=10;
+ cout<< x; 
 }
